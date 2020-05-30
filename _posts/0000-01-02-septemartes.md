@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Lorem ipsum
+'''python
+while True:
+    print('Hello Github')
+'''
 Use the left arrow to go back!
